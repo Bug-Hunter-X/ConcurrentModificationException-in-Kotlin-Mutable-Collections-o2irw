@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Kotlin involving ConcurrentModificationException when modifying mutable collections (Lists, Maps, Sets) during iteration.  The `bug.kt` file shows the problematic code, while `bugSolution.kt` provides solutions.
